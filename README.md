@@ -1,5 +1,5 @@
 ### Description
-adds 3 commands, /here, /halp and /go. /halp calls for help, /here calls location and /go teleports you to location.
+adds 3 commands, `/here`, `/halp` and `/go`. `/halp` calls for help, `/here` calls location and `/go` teleports you to location.
 
 ### Building a Jar
 
